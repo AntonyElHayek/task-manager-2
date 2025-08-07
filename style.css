@@ -47,7 +47,7 @@ h1 {
     border-color: #007bff;
 }
 
-button[type="submit"] {
+#add-task-button {
     padding: 10px 20px;
     background-color: #007bff;
     color: #fff;
@@ -56,7 +56,7 @@ button[type="submit"] {
     cursor: pointer;
 }
 
-button[type="submit"]:hover {
+#add-task-button:hover {
     background-color: #0056b3;
 }
 
